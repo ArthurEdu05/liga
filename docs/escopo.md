@@ -138,12 +138,9 @@ Ser o projeto principal de portfólio para vagas de **AI Engineer, Full Stack co
 
 ## 9. Identidade visual
 
-- Nome: **Liga**
-- Logo: a palavra "liga" em minúsculas, com o "i" formado por um maço de dinheiro envolvido por uma liga amarela.
-- Ícone do app (PWA, favicon, foto do bot): só o maço com a liga, simplificado para continuar legível em 32 px.
-- Paleta: amarelo da liga como destaque, sobre uma base verde-dinheiro escura ou neutra escura.
+Definida e documentada em [`docs/marca/`](marca/README.md):
+- Logo: "liga" em minúsculas (Sora Bold), com o "l" terminando em curva e o "i" formado por um maço de notas com cifrões e uma liga amarela.
+- Ícone do app: só o maço com a liga, em quadrado verde-escuro arredondado.
+- Paleta: Verde Liga `#0E3B2C`, Verde nota `#2E8B57`, Amarelo liga `#F2B705`, Creme `#FAF7EF`.
+- Fonte: Sora.
 
-## 10. Pendências
-
-- Confirmar se o Clerk exige domínio próprio em produção.
-- Criar a logo, o ícone e a paleta.

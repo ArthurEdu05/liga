@@ -67,6 +67,10 @@ O banco já nasce preparado para o escopo completo, mesmo que a interface venha 
 - campo `origem` em cada lançamento: `manual | chat | audio | telegram | nota_fiscal | extrato`.
 - migrações sempre via Alembic.
 
+## Identidade visual
+
+Arquivos e regras em `docs/marca/` (logo, ícones, favicon, paleta e tipografia). Fonte do app: Sora. Cores: Verde Liga `#0E3B2C`, Verde nota `#2E8B57`, Amarelo liga `#F2B705`, Creme `#FAF7EF`, texto secundário `#3D5A4E`. O tema do Angular deve usar essas cores e nunca inventar outras.
+
 ## Estrutura do repositório
 
 ```
@@ -74,7 +78,7 @@ liga/
 ├── web/      Angular (PWA)
 ├── api/      FastAPI (rotas → serviços → repositórios), agente em api/.../agent
 ├── evals/    datasets e runner do eval harness
-└── docs/     escopo e ADRs
+└── docs/     escopo, ADRs e marca (docs/marca)
 ```
 
 ## Convenções
