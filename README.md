@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/marca/logo.svg" alt="Liga" width="360"></p>
+<p align="center"><img src="docs/marca/logo-negativo.svg" alt="Liga" width="360"></p>
 
 <p align="center"><b>Assistente financeiro com IA para o dia a dia.</b><br>
 Registre e consulte seus gastos conversando, pela web ou pelo Telegram.</p>
