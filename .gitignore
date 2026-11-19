@@ -1,0 +1,46 @@
+# Segredos (NUNCA commitar)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python (api/, evals/)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version.local
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# Node / Angular (web/)
+node_modules/
+.angular/
+/web/dist/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+.vercel/
+
+# Dados locais e resultados de evals 
+*.sqlite
+*.db
+evals/results/
+
+# Editores e sistema 
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
